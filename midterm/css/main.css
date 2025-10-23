@@ -1,5 +1,9 @@
 body {
+    background-color: #b3d0cc;
     font-family: coolvetica;
     font-size: 20px;
-    color: #aad4cf;
+}
+
+.containter{
+    max-width: 900px;
 }
